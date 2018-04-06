@@ -1,3 +1,23 @@
+2018-04-05
+----------
+
+new issues
+
+- @nathan should put his name in the copyright on all files he has updated
+- The actual values in the window do not match that in ASHRAE90.1-2010 Table 5.5.1
+- all fenestration is treated as vertical windows. We need to code for skylights
+
+other:
+- windowskylightfilter()
+- remove shades 
+    - Group - Thermal Zone Description/Geometry[LINK]
+    - g = idf.getiddgroupdict().
+    - objkey = g[Thermal Zone Description/Geometry]
+    - if objkey startswith('Shading') -> remove those objects.
+- removing mechanical systems is harder. 
+     
+
+
 2017-12-07
 ----------
 
