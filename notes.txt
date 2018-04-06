@@ -3,8 +3,8 @@
 
 new issues
 
-- @nathan should put his name in the copyright on all files he has updated
-- The actual values in the window do not match that in ASHRAE90.1-2010 Table 5.5.1
+- @nathan should put his name in the copyright on all files he has updated - MADE ISSUE
+- The actual values in the window do not match that in ASHRAE90.1-2010 Table 5.5.1 
 - all fenestration is treated as vertical windows. We need to code for skylights
 
 other:
